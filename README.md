@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muvhulawamuthula
-- 👀 I’m interested in AWS 
+- 👀 I’m interested in AWS,OCI, JAVA, Go, RAG, Uipath, Docker
 - 🌱 I’m currently learning SQL FOR OCA/JAVA FOR OCA
 - 💞️ I’m looking to collaborate on AWS, SQL AND JAVA PROJECTS
 - 📫 How to reach me:MUTULAMUVHULAWA@GMAIL.COM
